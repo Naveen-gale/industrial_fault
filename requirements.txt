@@ -1,0 +1,4 @@
+crewai
+python-dotenv
+streamlit
+mcp>=1.31.0
